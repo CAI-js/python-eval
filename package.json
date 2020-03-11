@@ -29,8 +29,8 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@caijs/eval": "^1.0.2",
-    "@caijs/lexer": "^1.0.0"
+    "@caijs/eval": "^1.0.3",
+    "@caijs/lexer": "^1.0.1"
   },
   "devDependencies": {
     "coveralls": "^3.0.9",
