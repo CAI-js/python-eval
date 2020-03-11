@@ -1,6 +1,7 @@
 # @caijs/python-eval
 
 [![Build Status](https://travis-ci.com/CAI-js/python-eval.svg?branch=master)](https://travis-ci.com/CAI-js/python-eval)
+[![Coverage Status](https://coveralls.io/repos/github/CAI-js/python-eval/badge.svg?branch=master)](https://coveralls.io/github/CAI-js/python-eval?branch=master)
 [![NPM version](https://img.shields.io/npm/v/@caijs/python-eval.svg?style=flat)](https://www.npmjs.com/package/@caijs/python-eval)
 [![NPM downloads](https://img.shields.io/npm/dm/@caijs/python-eval.svg?style=flat)](https://www.npmjs.com/package/@caijs/python-eval)
 
